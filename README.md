@@ -1,4 +1,5 @@
 ### CHAD DEGANGE
+<p>Welcome to my GitHub! I am currently a Front-End Software Developer student at Turing School of Software & Design.</p>
 
 <img width="760" alt="Screen Shot 2021-12-05 at 2 47 51 PM" src="https://user-images.githubusercontent.com/41452531/144765422-979b3956-1ae4-4132-b226-38b90321f66d.png">
 
