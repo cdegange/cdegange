@@ -1,7 +1,7 @@
 ### CHAD DEGANGE
 <p>Welcome to my GitHub! I am currently a Full-Stack Software Developer student at <a href="https://www.codesmith.io//">Codesmith!.</a></p>
 
-<img width="760" alt="Screen Shot 2021-12-05 at 2 47 51 PM" src="https://user-images.githubusercontent.com/41452531/144765422-979b3956-1ae4-4132-b226-38b90321f66d.png">
+<img width="760" alt="Screen Shot 2021-12-05 at 2 47 51 PM" src="https://github.com/cdegange/cdegange/assets/41452531/7d148b2e-6e5a-40a6-949e-0973b047b60b">
 
 ## Contact Me
 ![chaddegange@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -18,3 +18,4 @@
 **cdegange/cdegange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+![Screen Shot 2023-07-24 at 6 46 08 PM](https://github.com/cdegange/cdegange/assets/41452531/7d148b2e-6e5a-40a6-949e-0973b047b60b)
