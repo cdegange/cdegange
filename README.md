@@ -1,5 +1,5 @@
 ### CHAD DEGANGE
-<p>Welcome to my GitHub! I am currently a Full-Stack Software Developer student at <a href="https://www.codesmith.io//">Codesmith!.</a></p>
+<p>Software Engineer at Codesmith<a href="https://www.codesmith.io//">Codesmith!.</a></p>
 
 <img width="760" alt="Screen Shot 2021-12-05 at 2 47 51 PM" src="https://github.com/cdegange/cdegange/assets/41452531/7d148b2e-6e5a-40a6-949e-0973b047b60b">
 
